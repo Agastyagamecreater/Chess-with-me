@@ -1,1 +1,1 @@
-# Chess-with-me
+CHESS game 
